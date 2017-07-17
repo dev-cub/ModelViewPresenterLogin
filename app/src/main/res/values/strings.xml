@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP_final</string>
+    <string name="enter_username" />
+    <string name="password" />
+    <string name="login" />
+    <string name="sign_in_image" />
+</resources>
